@@ -1,0 +1,1 @@
+document.write("htis is a JS code");
